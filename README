@@ -1,0 +1,4 @@
+Here's what I'm going to do:
+- git reset --hard to the initial commit, undoing the bad commit
+- Immediately regret my decisions
+- Save the day with git reflog
